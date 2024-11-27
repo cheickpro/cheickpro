@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cheickpro
+- 👋 Hi, I’m @TheGeek
 - 👀 I’m interested in Machine Learning computer vision and bioinformatics
-- 🌱 I’m currently learning data science and bioinformatique in Cameroon
+- 🌱 I’m currently learning data science and bioinformatique in Türkiye
 - 💞️ I’m looking to collaborate on every body who wants to learn whith me
 - 📫 How to reach me https://github.com/cheickpro/
 
